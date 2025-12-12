@@ -232,12 +232,6 @@ realtime-whiteboard/
 └── README.md
 ```
 
-### Example Screenshots
-
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Whiteboard Collaboration](screenshots/whiteboard.png)
-
 ---
 
 ## ✅ Assignment Requirements Checklist
