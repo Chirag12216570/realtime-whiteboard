@@ -200,6 +200,45 @@ yarn dev          # or npm run dev
 
 ---
 
+## 📸 Screenshots
+<img width="1919" height="965" alt="Screenshot 2025-12-12 223431" src="https://github.com/user-attachments/assets/428febbc-6d4a-4aa5-ad66-9f7a92d25767" />
+
+
+
+<img width="1913" height="970" alt="Screenshot 2025-12-12 223407" src="https://github.com/user-attachments/assets/6b5774e4-9958-40a3-9af0-6617f7837c04" />
+
+
+
+<img width="1919" height="973" alt="Screenshot 2025-12-12 223330" src="https://github.com/user-attachments/assets/6aa59b56-a52f-4f3c-a28d-ae54433ce534" />
+
+
+
+<img width="1919" height="963" alt="Screenshot 2025-12-12 223209" src="https://github.com/user-attachments/assets/d8ef84e0-7636-4950-af56-c7cb320e84dc" />
+
+
+
+<img width="1917" height="968" alt="Screenshot 2025-12-12 223445" src="https://github.com/user-attachments/assets/9f9efbab-e499-4453-917a-340c2935165c" />
+
+
+```
+realtime-whiteboard/
+├── backend/
+├── frontend/
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard.png
+│   └── whiteboard.png
+└── README.md
+```
+
+### Example Screenshots
+
+![Login Page](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Whiteboard Collaboration](screenshots/whiteboard.png)
+
+---
+
 ## ✅ Assignment Requirements Checklist
 
 - [x] React + TypeScript frontend
@@ -212,11 +251,3 @@ yarn dev          # or npm run dev
 - [x] Screenshots included
 
 ---
-
-## 📄 License
-
-This project is for assignment/demo purposes only.
-
----
-
-**Thank you for reviewing my submission! If you have any questions or need help running the project, please let me know.**
